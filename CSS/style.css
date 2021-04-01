@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+.header {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(243, 163, 13);
+}
+div {
+  color:aquamarine;
+  background-attachment: fixed;
+  font-size: 23px;
+}
